@@ -1,0 +1,18 @@
+1. 3 * 2 + 1
+- 3 argumenty
+- 2 operatory
+2. 5 + 10 * 5
+- 3 argumenty
+- 2 operatory
+3. 4 + 4 / 2 ** 2
+- 4 argumenty
+- 3 operatory
+4. 4 % 3 % 2 % 1
+- 4 argumenty
+- 3 operatory
+5. 1 + 2 % 3 ** 4 * 5
+- 5 argumentów
+- 4 operatory
+6. Prawda != Fałsz
+- 2 arguemnty
+- 1 operator

@@ -1,0 +1,8 @@
++ (dodawanie liczb)
+* (mnożenie liczb)
+** (potęgowanie liczb)
+/ (dzielenie liczb)
+// (dzielenie całkowite - służy do dzielenia jedenj liczby przez drugą i zaokrągla wynik w dół do najbliższej liczby całkowitej)
+% (Modulo - reszta z dzielenia)
+> (większy niż - operator porównania, sprawdza czy pierwsza liczba jest większa od drugiej, zwraca TRUE lub FALSE)
+<= (mniejszy lub równy - operator porównania, sprawdza czy pierwsza liczba jest mniejsza lub równa drugiej, zwraca TRUE lub FALSE)

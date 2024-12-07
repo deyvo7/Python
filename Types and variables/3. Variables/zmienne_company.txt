@@ -1,0 +1,29 @@
+Program używa 7 zmiennych:
+
+1. Nazwa: company
+Wartość: "ABC Data"
+Typ wartości: str
+
+2.Nazwa: phone
+Wartość: "555-123-009"
+Typ wartości: str
+
+3. Nazwa: employees  
+Wartość: 25
+Typ wartości: int
+
+4. Nazwa: remote_work
+Wartość: True
+Typ wartości: bool
+
+5.Nazwa: big_company
+Wartość: False
+Typ wartości: bool
+
+6. Nazwa: Income
+Wartość: 4500000
+Typ wartości: int
+
+7. Nazwa: income_per_person
+Wartość: 180000.0 float
+Typ wartości:
