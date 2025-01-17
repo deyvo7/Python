@@ -1,0 +1,21 @@
+Copy the text below into the Regex101 online editor:
+
+https://regex101.com/
+
+Then, for each of the following tasks, create a pattern that identifies the text chunks as described in the task.
+
+1. Find all dates in the format "month day, year" (e.g., "March 12, 1992")
+2. Locate all phone numbers in the format "XXX-XXX-XXXX" (e.g., "555-123-4567")
+3. Find all numbers written with commas as thousand separators (e.g., "1,234")
+
+
+Answers:
+1. \w+ \d{1,2}, \d{4}
+ver2: \b[A-Z][a-z]+ \d{1,2}, \d{4}\b
+
+2. \d{3}-\d{3}-\d{4}
+ver 2: \b\d{3}-\d{3}-\d{4}\b
+
+3. \d+,\d+
+ver2: \b\d{1,3}(,\d{3})+\b
+
